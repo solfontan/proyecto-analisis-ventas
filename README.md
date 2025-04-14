@@ -9,7 +9,7 @@ Se trabajaron variables como la estacionalidad, el comportamiento del cliente, l
 
 A continuación, una demo rápida del dashboard desarrollado para visualizar y analizar los datos:
 
-[https://github.com/tuusuario/tu-repo/raw/main/dashboard-video.mp4](https://github.com/solfontan/proyecto-analisis-ventas/blob/main/DashBoard_Ventas.mp4)
+[Dashboard.mp4](https://github.com/solfontan/proyecto-analisis-ventas/blob/main/DashBoard_Ventas.mp4)
 
 
 ---
@@ -18,7 +18,7 @@ A continuación, una demo rápida del dashboard desarrollado para visualizar y a
 
 Podés consultar el informe en PDF con el análisis detallado y las recomendaciones estratégicas:
 
-📎 [Descargar Informe de Ventas (PDF)](https://github.com/tuusuario/tu-repo/raw/main/Informe_Ventas.pdf)](https://github.com/solfontan/proyecto-analisis-ventas/blob/main/An%C3%A1lisis%20de%20Ventas.pdf)
+📎 [Descargar Informe de Ventas (PDF)](https://github.com/solfontan/proyecto-analisis-ventas/blob/main/An%C3%A1lisis%20de%20Ventas.pdf)
 
 ---
 
