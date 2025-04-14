@@ -18,7 +18,7 @@ A continuación, una demo rápida del dashboard desarrollado para visualizar y a
 
 Podés consultar el informe en PDF con el análisis detallado y las recomendaciones estratégicas:
 
-📎 [[Descargar Informe de Ventas (PDF)](https://github.com/tuusuario/tu-repo/raw/main/Informe_Ventas.pdf)](https://github.com/solfontan/proyecto-analisis-ventas/blob/main/An%C3%A1lisis%20de%20Ventas.pdf)
+📎 [Descargar Informe de Ventas (PDF)](https://github.com/tuusuario/tu-repo/raw/main/Informe_Ventas.pdf)](https://github.com/solfontan/proyecto-analisis-ventas/blob/main/An%C3%A1lisis%20de%20Ventas.pdf)
 
 ---
 
